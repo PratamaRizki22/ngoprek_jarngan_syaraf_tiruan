@@ -1,3 +1,4 @@
+import numpy as np
 class Perceptron:
     def __init__(self, learning_rate=0.575, threshold=0.555, initial_weights=None, initial_bias=0):
         self.lr = learning_rate
