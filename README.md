@@ -1,0 +1,1 @@
+# ngoprek_jarngan_syaraf_tiruan
